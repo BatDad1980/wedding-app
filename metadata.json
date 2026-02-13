@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Marianne Wedding Planner",
+  "description": "An elegant, AI-powered wedding planning companion designed for a seamless mobile experience. Track your budget, manage guests, organize tasks, and get personalized inspiration from your AI wedding concierge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
